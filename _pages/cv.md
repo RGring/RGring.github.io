@@ -11,49 +11,63 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, University for Applied Science Hamburg, Germany, 2015
+  * Focus: Computational Engineering, Design, Robotics, Automation
+* M.S. in Computer Science, University Hamburg, Germany, 2019
+  * Focus: Computer Vision, Robotics, Machine Learning
+* Ph.D in Agricultural Robotics & Computer Vision, Technical University of Denmark, Denmark, expected 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - 2020: Machine Learning Engineer
+  * Mobile Industrial Robots, Odense, Denmark
+  * Focus: Object detection and sensor fusion of
+camera and LIDAR data
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016 - 2018: Technical Assistant
+  * University for Applied Science Hamburg, Germany
+  * Research project: Smart Production 4.0
+  * Focus: Development of software and hardware of an autonomous
+mobile robot
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2013 - 2016 Working Student:
+  * University for Applied Science Hamburg, Germany
+  * Research project: Azimuth systems in wind power plants
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+
+Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Word Processing
+  * Latex
+  * MS Office
+* Programming Languages
+  * Python
+  * C++
+  * Matlab
+* Machine Learning Frameworks
+  * Pytorch
+  * Tensforflow
+  * Nvidia Deepstream
+* Operating Systems
+  * Windows
+  * Ubuntu
+* Others
+  * Robot Operating System (ROS)
+  * Nvidia Jetson
   
-Teaching
+Interests
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Languages
+  * German (native)
+  * English (fluent)
+  * Danish (beginner)
+  * French (beginner)
+* Hobbies
+  * Beachvolleyball
+  * Cycling

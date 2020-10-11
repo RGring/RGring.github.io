@@ -19,6 +19,12 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
+  <div class="uni__content">
+    {% if author.group %}<p class="author__group"><a href="https://www.aut.elektro.dtu.dk/" style="color:#000">{{ author.group }}</a></p>{% endif %}
+    {% if author.department %}<p class="author__department" style="margin-top:-1em">{{ author.department }}</p>{% endif %}
+    {% if author.univ %}<p class="author__univ" style="margin-top:-1em"><a href="https://www.dtu.dk/english" style="color:#000"><img src="{{ author.uni_logo | prepend: "/images/" | prepend: base_path }}" style="width:25px;float:left"/><b> {{ author.univ }}</b></a></p>{% endif %}
+  </div>
+
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
@@ -32,7 +38,8 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email: " }}</a></li>
+        <li style="margin-left: 1.5em">{{ author.email }}</li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>

@@ -1,5 +1,6 @@
 ---
 title: "Few-leaf Learning: Weed Segmentation in Grasslands"
+award: "Finalist for the Best Paper Award on Agri-Robotics"
 collection: publications
 permalink: /publication/2020-09-27-Few-Leaf-Learning
 #excerpt: 'We present a system to train neural-network policies for local planners, explicitly accounting for humans navigating the space.'

@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical Engineering, University for Applied Science Hamburg, Germany, 2015
-  * Focus: Computational Engineering, Design, Robotics, Automation
+* Ph.D in Agricultural Robotics & Computer Vision, Technical University of Denmark, Denmark, expected 2023
 * M.S. in Computer Science, University Hamburg, Germany, 2019
   * Focus: Computer Vision, Robotics, Machine Learning
-* Ph.D in Agricultural Robotics & Computer Vision, Technical University of Denmark, Denmark, expected 2023
+* B.S. in Mechanical Engineering, University for Applied Science Hamburg, Germany, 2015
+  * Focus: Computational Engineering, Design, Robotics, Automation
 
 Work experience
 ======
@@ -43,9 +43,6 @@ Publications
 
 Skills
 ======
-* Word Processing
-  * Latex
-  * MS Office
 * Programming Languages
   * Python
   * C++
@@ -57,6 +54,9 @@ Skills
 * Operating Systems
   * Windows
   * Ubuntu
+* Word Processing
+  * Latex
+  * MS Office
 * Others
   * Robot Operating System (ROS)
   * Nvidia Jetson

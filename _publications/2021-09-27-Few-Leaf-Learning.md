@@ -4,7 +4,7 @@ award: "Finalist for the Best Paper Award on Agri-Robotics"
 collection: publications
 permalink: /publication/2020-09-27-Few-Leaf-Learning
 #excerpt: 'We present a system to train neural-network policies for local planners, explicitly accounting for humans navigating the space.'
-date: 2020-09-27
+date: 2021-09-27
 venue: 'International Conference on Intelligent Robots and Systems, IROS 2021'
 #paperurl: 'http://ras.papercept.net/images/temp/IROS/files/0122.pdf'
 authors: 'Ronja Güldenring, Evangelos Boukas, Ole Ravn, Lazaros Nalpantidis.'

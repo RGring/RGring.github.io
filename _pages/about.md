@@ -27,8 +27,10 @@ Publications
 
 Teaching
 ======
+* Co-supervision of Special Course "Object Detection on RGB-D Images from Agricultural Environments" by Bence Bejczy, 2021
 * Fall Semester 2021: TA at [Software Frameworks for Autonomous Systems](https://kurser.dtu.dk/course/31391){:target="_blank"}
 * Co-supervision of Master Thesis "Real-time Object Detection using Deep Learning on Constrained Devices" by Serdar Tunckol, 2021
+* Co-supervision of Special Course "Specialkursus, Synthesis: Evaluation of 3D sensors in indoor and outdoor environments" by Carla Christina Salazar Navalon, 2020
 * Fall Semester 2020: TA at [Software Frameworks for Autonomous Systems](https://kurser.dtu.dk/course/31391){:target="_blank"}
 
 
